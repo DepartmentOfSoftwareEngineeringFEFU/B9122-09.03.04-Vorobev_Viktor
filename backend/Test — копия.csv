@@ -1,0 +1,1 @@
+MMSI,BaseDateTime,LAT,LON,SOG,COG,Heading,VesselName,IMO,CallSign,VesselType,Status,Length,Width,Draft,Cargo,TransceiverClass,dest_cluster,dest_lat,dest_lon,dist_km,SOG_kmh,ETA_min,VesselType_enc,Status_enc,Cargo_enc,ETA_hours,Speed_Category
